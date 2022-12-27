@@ -1,0 +1,9 @@
+2022-12-28 02:56:56.629[1672176416629] | INFO  | main       | c.b.c.c.utils.WebSocketConnection    - [Connection 1] Connecting to stream.binance.com/ws/btcusdt@trade
+2022-12-28 02:56:58.721[1672176418721] | INFO  | OkHttp https://stream.binance.com:9443/... | c.b.c.c.utils.WebSocketConnection    - [Connection 1] Connected to Server
+2022-12-28 02:56:58.727[1672176418727] | INFO  | OkHttp https://stream.binance.com:9443/... | c.b.c.c.impl.WebsocketClientImpl     - Closing 1 connections(s)
+2022-12-28 02:56:58.728[1672176418728] | INFO  | OkHttp https://stream.binance.com:9443/... | c.b.c.c.utils.WebSocketConnection    - [Connection 1] Closing connection to stream.binance.com/ws/btcusdt@trade
+2022-12-28 02:56:58.729[1672176418729] | INFO  | OkHttp https://stream.binance.com:9443/... | c.b.c.c.impl.WebsocketClientImpl     - All connections are closed!
+2022-12-28 02:56:58.785[1672176418785] | INFO  | OkHttp https://stream.binance.com:9443/... | c.b.c.c.impl.WebsocketClientImpl     - All connections are closed!
+2022-12-28 02:56:58.786[1672176418786] | INFO  | OkHttp https://stream.binance.com:9443/... | c.b.c.c.impl.WebsocketClientImpl     - All connections are closed!
+2022-12-28 02:56:58.843[1672176418843] | INFO  | OkHttp https://stream.binance.com:9443/... | c.b.c.c.impl.WebsocketClientImpl     - All connections are closed!
+2022-12-28 02:56:58.845[1672176418845] | INFO  | OkHttp https://stream.binance.com:9443/... | c.b.c.c.impl.WebsocketClientImpl     - All connections are closed!
